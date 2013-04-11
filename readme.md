@@ -40,7 +40,7 @@ Checks if the given argument is a true object. If the argument is a true object 
 
 Uses [Array.prototype.slice](https://developer.mozilla.org/en-US/docs/JavaScript/Reference/Global_Objects/Array/slice) directly.
 
-## utils.toArray(argument, argument2, ...)
+## utils.toArray(arguments)
 
 Creates an array from given arguments and returns it.
 
