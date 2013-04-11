@@ -1,0 +1,23 @@
+{
+  "name": "fundot-utils",
+  "description": "Fundot utilities",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chapel/fundot-utils.git"
+  },
+  "homepage": "https://github.com/chapel/fundot-utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "~1.7.4"
+  },
+  "author": {
+    "name": "Jacob Chapel",
+    "email": "jacob.chapel@gmail.com"
+  },
+  "license": "MIT"
+}
